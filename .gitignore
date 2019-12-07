@@ -3,5 +3,3 @@ node_modules
 full-workflow.code-workspace
 build
 docker.sh
-Dockerfile
-.dockerignore
