@@ -13,7 +13,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "prebuild": "deploy.sh", 
     "build:production": "react-scripts build",
     "build:staging": "npm run build",
     "test": "react-scripts test",
